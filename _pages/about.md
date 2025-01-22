@@ -14,4 +14,4 @@ I am a first-year PhD student in the Department of Electrical and Computer Engin
 
 Before joining Rutgers, I interned with Dr. Qiang Liu's research group at UT Austin, MoleculeMind, and ByteDance AI Lab. I was fortunate to collaborate with esteemed mentors, including Professor Qiang Liu (UT Austin), Dr. Chengyue Gong (UT Austin, now at ByteDance), Professor Jinbo Xu (MoleculeMind), Dr. Xinyu Hong, Professor Quanquan Gu (ByteDance), and Dr. Zaixiang Zheng. They have been indispensable guides on my journey into research.
 
-I am highly interested in collaborations in AI for Science. If you share a similar interest, please feel free to contact me via email.
+I am highly interested in collaborations in deep generative modeling and AI for Science. If you share a similar interest, please feel free to contact me via email.
