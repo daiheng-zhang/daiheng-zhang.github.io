@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 
-I am a first-year PhD student in the Department of Electrical and Computer Engineering at Rutgers University–New Brunswick, starting from Spring 2025, under the supervision of Dr. Zhao Zhang. Prior to this, I obtained a Master's degree from the NYU Center for Data Science, and two Bachelor's degrees, one in Financial Mathematics from Ohio State University and another in Pharmacy from Zhejiang University, seperately.
+I am a first-year PhD student in the Department of Electrical and Computer Engineering at Rutgers University–New Brunswick, starting from Spring 2025, under the supervision of [Dr. Zhao Zhang](https://zhaozhang.github.io/). Prior to this, I obtained a Master's degree from the NYU Center for Data Science, and two Bachelor's degrees, one in Financial Mathematics from Ohio State University and another in Pharmacy from Zhejiang University, seperately.
 
 Before joining Rutgers, I interned with Dr. Qiang Liu's research group at UT Austin, MoleculeMind, and ByteDance AI Lab. I was fortunate to collaborate with esteemed mentors, including Professor Qiang Liu (UT Austin), Dr. Chengyue Gong (UT Austin, now at ByteDance), Professor Jinbo Xu (MoleculeMind), Dr. Xinyu Hong, Professor Quanquan Gu (ByteDance), and Dr. Zaixiang Zheng. They have been indispensable guides on my journey into research.
 
