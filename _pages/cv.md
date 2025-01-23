@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical and Computer Engineering, Rutgers University, 2029 (expected)
+* Ph.D in Electrical and Computer Engineering (Machine learning track), Rutgers University, 2029 (expected)
 * M.S. in Data Science, New York University, 2023
 * B.S. in Math, Ohio State University, 2021
 * B.S. in Pharmacy, Zhejiang University, 2019
