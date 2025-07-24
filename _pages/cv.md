@@ -18,9 +18,13 @@ Education
 
 Work experience
 ======
+* May 2025 - present: Research intern in Genbio AI
+  * Accelerate the training and sampling of AlphaFold3.
+  * Supervisor: Dr. Zhao Zhang and Dr. Hongyi Wang.
+
 * Aug 2024 - Jan 2025: Research intern in Bytedance AI lab
   * Exploring the multimodal protein language model.
-  * Supervisor: Dr. Zaixiang Zheng and Professor Quanquan Gu.
+  * Supervisor: Dr. Zaixiang Zheng.
 
 * April 2024 - July 2024: Research intern in MoleculeMind
   * Build the model for enzyme kinetics prediction. 
@@ -30,7 +34,7 @@ Work experience
 * June 2023 - May 2024: Visiting Student in UT Austin
   * Rectified flow For Structure Based Drug Design.
   * EC number classification predictor.
-  * Supervisor: Dr. Chengyue Gong and Professor Qiang Liu.
+  * Supervisor: Dr. Chengyue Gong.
   
 Skills
 ======
