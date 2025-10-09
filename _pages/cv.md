@@ -34,7 +34,7 @@ Work experience
 * June 2023 - May 2024: Visiting Student in UT Austin
   * Rectified flow For Structure Based Drug Design.
   * EC number classification predictor.
-  * Supervisor: Dr. Chengyue Gong.
+  * Supervisor: Dr. Qiang Liu and Dr. Chengyue Gong.
   
 Skills
 ======
