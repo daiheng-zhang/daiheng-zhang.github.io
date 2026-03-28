@@ -14,7 +14,7 @@ I am a second-year PhD student in the Department of Electrical and Computer Engi
 
 Before joining Rutgers, I interned with Dr. Qiang Liu's research group at UT Austin, [MoleculeMind](http://moleculemind.com/), and [ByteDance seed](https://seed.bytedance.com/en/). I was fortunate to collaborate with esteemed mentors, including [Professor Qiang Liu](https://www.cs.utexas.edu/~lqiang/) (UT Austin), [Dr. Chengyue Gong](https://scholar.google.com/citations?hl=zh-CN&user=AscakBgAAAAJ&view_op=list_works&sortby=pubdate) (UT Austin, now at ByteDance), [Dr. Xinyu Hong](https://www.xhong.me/)(MoleculeMind), and [Dr. Zaixiang Zheng](https://zhengzx-nlp.github.io/)(ByteDance). They have been indispensable guides on my journey into research.
 
-I am highly interested in collaborations in deep generative modeling and AI for Science, and I have also been actively learning high-performance computing. If you share a similar interest, please feel free to contact me via email.
+In 2026, my primary research interest is LLM post-training. Previously, I mainly worked on generative models and AI for proteins. If you share similar interests, please feel free to contact me via email.
 
 ## News
 
