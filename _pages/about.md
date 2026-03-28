@@ -16,10 +16,6 @@ Before joining Rutgers, I interned with Dr. Qiang Liu's research group at UT Aus
 
 I am highly interested in collaborations in deep generative modeling and AI for Science, and I have also been actively learning high-performance computing. If you share a similar interest, please feel free to contact me via email.
 
-## Services
-
-- ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)
-
 ## News
 
 - **March 2026:** Accepted a Summer 2026 internship at Genentech Prescient Design on LLMs for scientific discovery.
