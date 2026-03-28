@@ -18,4 +18,4 @@ I am highly interested in collaborations in deep generative modeling and AI for 
 
 ## News
 
-- **March 2026:** Accepted a Summer 2026 internship at Genentech Prescient Design on LLMs for scientific discovery.
+- **March 2026:** Accepted a Summer 2026 internship at Genentech [Prescient Design](https://www.gene.com/scientists/our-scientists/prescient-design) on LLMs for scientific discovery.
