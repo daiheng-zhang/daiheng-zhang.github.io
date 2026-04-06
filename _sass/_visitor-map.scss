@@ -1,0 +1,101 @@
+/* ==========================================================================
+   HOMEPAGE VISITOR MAP
+   ========================================================================== */
+
+.visitor-map-card {
+  margin: 3rem 0 1rem;
+  padding: 1.5rem;
+  border: 1px solid mix(#fff, $gray, 72%);
+  border-radius: $border-radius * 2;
+  background:
+    radial-gradient(circle at top right, rgba($info-color, 0.12), transparent 32%),
+    linear-gradient(135deg, mix(#fff, $lighter-gray, 92%) 0%, #fff 100%);
+  box-shadow: 0 18px 40px rgba(#000, 0.05);
+}
+
+.visitor-map-card__header {
+  margin-bottom: 1.25rem;
+}
+
+.visitor-map-card__eyebrow {
+  margin: 0 0 0.35rem;
+  color: $info-color;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-6;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.visitor-map-card__title {
+  margin: 0;
+  font-size: $type-size-4;
+}
+
+.visitor-map-card__description {
+  margin: 0.6rem 0 0;
+  max-width: 42rem;
+  color: $gray;
+}
+
+.visitor-map-card__body {
+  min-height: 240px;
+}
+
+.visitor-map-embed {
+  overflow-x: auto;
+  border: 1px dashed mix(#fff, $gray, 55%);
+  border-radius: $border-radius * 1.5;
+  background-color: rgba(#fff, 0.75);
+}
+
+.visitor-map-embed iframe,
+.visitor-map-embed img,
+.visitor-map-embed canvas,
+.visitor-map-embed svg {
+  display: block;
+  max-width: 100%;
+}
+
+.visitor-map-placeholder {
+  display: flex;
+  min-height: 240px;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 1.5rem;
+}
+
+.visitor-map-placeholder strong {
+  font-size: $type-size-5;
+}
+
+.visitor-map-placeholder span {
+  max-width: 40rem;
+  color: $gray;
+}
+
+.visitor-map-placeholder code {
+  font-size: 0.95em;
+}
+
+.visitor-map-placeholder a {
+  align-self: flex-start;
+  font-weight: bold;
+}
+
+@media (max-width: $medium) {
+  .visitor-map-card {
+    margin-top: 2.25rem;
+    padding: 1.1rem;
+  }
+
+  .visitor-map-card__title {
+    font-size: $type-size-5;
+  }
+
+  .visitor-map-card__body,
+  .visitor-map-placeholder {
+    min-height: 200px;
+  }
+}

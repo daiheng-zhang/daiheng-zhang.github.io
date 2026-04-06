@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* May 2025 - present: Research intern in Genbio AI
+* May 2025 - Dec 2025: Research intern in Genbio AI
   * Accelerate the training and sampling of AlphaFold3.
   * Supervisor: Dr. Zhao Zhang and Dr. Hongyi Wang.
 
