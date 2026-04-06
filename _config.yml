@@ -140,7 +140,7 @@ analytics:
     tracking_id          :
 
 visitor_map:
-  enabled                : false
+  enabled                : true
   provider               : "mapmyvisitors"
 
 
