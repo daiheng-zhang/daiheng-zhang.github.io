@@ -139,6 +139,10 @@ analytics:
   google:
     tracking_id          :
 
+visitor_map:
+  enabled                : false
+  provider               : "mapmyvisitors"
+
 
 # Reading Files
 include:
