@@ -10,3 +10,4 @@ author_profile: true
 Conference Reviewer
 ======
 * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)
+* 2025 IEEE International Conference on eScience
