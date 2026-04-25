@@ -18,10 +18,6 @@ Education
 
 Work experience
 ======
-* May 2025 - Dec 2025: Research intern in Genbio AI
-  * Accelerate the training and sampling of AlphaFold3.
-  * Supervisor: Dr. Zhao Zhang and Dr. Hongyi Wang.
-
 * Aug 2024 - Jan 2025: Research intern in Bytedance AI lab
   * Exploring the multimodal protein language model.
   * Supervisor: Dr. Zaixiang Zheng.
