@@ -18,6 +18,7 @@ In 2026, my primary research interest is LLM post-training. Previously, I mainly
 
 ## News
 
+- **April 2026:** My first-author paper, **STRIDE: Post-Training LLMs to Reason and Refine Bio-Sequences via Edit Trajectories**, was accepted to ICML 2026 in Seoul, Korea.
 - **March 2026:** Accepted a Summer 2026 internship at Genentech [Prescient Design](https://www.gene.com/scientists/our-scientists/prescient-design) on LLMs for scientific discovery.
 
 {% include homepage-visitor-map.html %}
