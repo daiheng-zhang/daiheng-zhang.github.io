@@ -28,12 +28,12 @@ Work experience
 * April 2024 - July 2024: Research intern in MoleculeMind
   * Build the model for enzyme kinetics prediction. 
   * Design the mutation effect predictor on melting temperature.
-  * Supervisor: [Dr. Xinyu Hong](https://www.xhong.me/) and [Professor Jinbo Xu](http://ttic.uchicago.edu/~jinbo/).
+  * Supervisor: [Dr. Xinyu Hong](https://www.linkedin.com/in/xinyuhong) and [Professor Jinbo Xu](http://ttic.uchicago.edu/~jinbo/).
 
 * June 2023 - May 2024: Visiting Student in UT Austin
   * Rectified flow For Structure Based Drug Design.
   * EC number classification predictor.
-  * Supervisor: [Dr. Qiang Liu](https://www.cs.utexas.edu/~lqiang/) and Dr. Chengyue Gong.
+  * Supervisor: [Dr. Qiang Liu](https://www.cs.utexas.edu/~lqiang/) and [Dr. Chengyue Gong](https://www.linkedin.com/in/chengyuegong199605090717).
   
 Skills
 ======
