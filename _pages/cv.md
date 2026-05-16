@@ -19,21 +19,21 @@ Education
 Work experience
 ======
 * May 2026 - Present: Research intern at Genentech Prescient Design
-  * Mentor: [Dr. Zach Wang](https://www.zachwang.com/).
+  * Supervisor: [Dr. Zach Wang](https://www.zachwang.com/).
 
 * Aug 2024 - Jan 2025: Research intern in Bytedance AI lab
   * Exploring the multimodal protein language model.
-  * Supervisor: Dr. Zaixiang Zheng.
+  * Supervisor: [Dr. Zaixiang Zheng](https://zhengzx-nlp.github.io/).
 
 * April 2024 - July 2024: Research intern in MoleculeMind
   * Build the model for enzyme kinetics prediction. 
   * Design the mutation effect predictor on melting temperature.
-  * Supervisor: Dr. Xinyu Hong and Professor Jinbo Xu.
+  * Supervisor: [Dr. Xinyu Hong](https://www.xhong.me/) and [Professor Jinbo Xu](http://ttic.uchicago.edu/~jinbo/).
 
 * June 2023 - May 2024: Visiting Student in UT Austin
   * Rectified flow For Structure Based Drug Design.
   * EC number classification predictor.
-  * Supervisor: Dr. Qiang Liu and Dr. Chengyue Gong.
+  * Supervisor: [Dr. Qiang Liu](https://www.cs.utexas.edu/~lqiang/) and Dr. Chengyue Gong.
   
 Skills
 ======
