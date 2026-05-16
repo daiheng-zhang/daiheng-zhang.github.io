@@ -19,6 +19,7 @@ Education
 Work experience
 ======
 * May 2026 - Present: Research intern at Genentech Prescient Design
+  * Mentor: [Dr. Zach Wang](https://www.zachwang.com/).
 
 * Aug 2024 - Jan 2025: Research intern in Bytedance AI lab
   * Exploring the multimodal protein language model.
